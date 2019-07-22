@@ -1,0 +1,9 @@
+D:\PRODAS XR5\Hello Word\Hello Word\bin\Debug\Hello Word.exe.config
+D:\PRODAS XR5\Hello Word\Hello Word\bin\Debug\Hello Word.exe
+D:\PRODAS XR5\Hello Word\Hello Word\bin\Debug\Hello Word.pdb
+D:\PRODAS XR5\Hello Word\Hello Word\obj\Debug\Hello Word.csprojResolveAssemblyReference.cache
+D:\PRODAS XR5\Hello Word\Hello Word\obj\Debug\Hello Word.exe
+D:\PRODAS XR5\Hello Word\Hello Word\obj\Debug\Hello Word.pdb
+G:\PRODAS XR5\Hello Word\Hello Word\bin\Debug\Hello Word.exe.config
+G:\PRODAS XR5\Hello Word\Hello Word\obj\Debug\Hello Word.exe
+G:\PRODAS XR5\Hello Word\Hello Word\obj\Debug\Hello Word.pdb
